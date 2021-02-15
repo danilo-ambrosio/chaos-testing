@@ -18,4 +18,4 @@ Then, run the three nodes separately passing the node name as the program argume
  $ ./java -jar target/aircraft-monitoring-1.0.0.jar node3
 ```
 
-As showed above, the expected node names `node1, node2, node3`.
+As showed above, the expected node names are `node1, node2, node3`.
