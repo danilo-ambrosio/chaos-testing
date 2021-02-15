@@ -1,0 +1,24 @@
+# General
+target/
+.classpath
+.project
+.settings
+.DS_Store
+*.log
+build/
+.metadata/
+.factorypath
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+.gradle/
+out/
+/.recommenders/
+*.jtl
+**/.~lock.*
+dependency-reduced-pom.xml
+
+
