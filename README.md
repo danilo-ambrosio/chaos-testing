@@ -1,6 +1,6 @@
 # Aircraft Monitoring
 
-This is a simple demo app created for chaos testing purposes. Based on VLINGO/CLUSTER, it supports up to three nodes and achieves a quorum when two healthy nodes are running.
+This is a simple demo app created for chaos testing purposes. Based on VLINGO/CLUSTER, it supports up to three nodes and achieves a quorum when, at least, two healthy nodes are running.
 
 # Execution
 
